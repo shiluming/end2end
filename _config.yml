@@ -19,7 +19,7 @@ title: slm
 description: "A free Jekyll theme for download"
 keywords: "shiluming"
 url: http://www.shiluming.com
-baseurl: "/"
+baseurl: "/end2end"
 
 google_analytics: UA-52446115-1
 repo: http://github.com/nandomoreirame/end2end
