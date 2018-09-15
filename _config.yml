@@ -15,11 +15,11 @@ sass:
   style: compressed # expanded
 
 # SEO settings
-title: end2end
+title: slm
 description: "A free Jekyll theme for download"
-keywords: "Jekyll, theme, free, download, SEO, blog, web"
-url: http://nandomoreira.me
-baseurl: "/end2end"
+keywords: "shiluming"
+url: http://www.shiluming.com
+baseurl: "/"
 
 google_analytics: UA-52446115-1
 repo: http://github.com/nandomoreirame/end2end
@@ -28,16 +28,16 @@ disqus_site_shortname: "nandothemes"
 
 # Author settings
 author:
-  name: Fernando Moreira
-  job: Frontend Engineer
-  bio: "Enthusiast performance, responsive design and usability, always looking for the best project and good coffee."
+  name: shi lu ming
+  job: Backend Engineer
+  bio: "我很糟糕!!!"
   thumb: /images/author.jpg
-  email: nandomoreira.me@gmail.com
-  url: https://nandomoreira.me/
-  github: https://github.com/nandomoreirame
-  twitter: https://twitter.com/umdevux
-  facebook: https://facebook.com/umdevux
-  linkedin: https://linkedin.com/in/nandomoreirame
+  email: luming.bfm@gmail.com
+  url: https://shiluming.com/
+  github: https://github.com/shiluming
+  twitter: 
+  facebook: 
+  linkedin: 
 
 # navbar pages
 navbar:
